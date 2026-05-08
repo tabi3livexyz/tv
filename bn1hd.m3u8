@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="default-audio",NAME="audio1",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ar",URI=""
+#EXT-X-STREAM-INF:BANDWIDTH=1942000,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720,AUDIO="default-audio",FRAME-RATE=25.000
+https://bthkoraonline.bthkoraonline.workers.dev/?url=http%3A%2F%2Fhet000.4rouwanda-shop.store%2Flive%2F645587700%2Findex.m3u8
